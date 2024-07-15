@@ -1,5 +1,5 @@
-n = '홍길동'
-a = 20
+name = '홍길동'
+age = 20
 s = '이름 : '
 s2 = '나이 : '
 s3 = '학생 정보를 출력합니다.'
@@ -8,6 +8,6 @@ s5 = '출력 완료'
 
 print(s3)
 print(s4)
-print(s, n)
-print(s2, a)
+print(s, name)
+print(s2, age)
 print(s5)
