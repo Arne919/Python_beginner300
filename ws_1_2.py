@@ -1,3 +1,5 @@
+#주어진 각 데이터들의 data type을 출력하여 결과를 확인하시오.
+
 string = '문자열'
 integer = 10
 floating_point = 3.14
